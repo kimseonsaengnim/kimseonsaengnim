@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, it's me! I'm the problem. lol
+
+### Hi there 👋 
+
+I realized, this profile has no README (not that I have a decent one on my main profile, lol), but i guess this one will do for the timebeing. 
+
+This profile was supposed to be my university profile, but i drifted away from it. Now, I decided to dump my random (and probably crazy) projects here.
 
 <!--
 **kimseonsaengnim/kimseonsaengnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
