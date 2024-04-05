@@ -1,4 +1,4 @@
-# Hello, it's me! I'm the problem. lol
+# Passionate Data Scientist in the Making
 
 ### Hi there 👋 
 
